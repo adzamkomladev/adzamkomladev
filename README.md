@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I use `.cs`, `.sln`, `.ts`, `.js`, `.yml`, `.json`, `.sql`
+- 🔭 I use `.cs`, `.sln`, `.ts`, `.js`, `.go`, `.php`, `.yml`, `.json`, `.sql`
 - 🌱 I’m currently learning Temporal, Microservice patterns and Workflow engines
